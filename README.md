@@ -11,7 +11,7 @@ Using simple ingredients and step by step.
 
 
 # Tools 
-Recipes app developed using Flutter framework from Google and Vs code. The app is responsive to different devices size and adaptive to different platforms (IOS & Android). Users can navigate between different screens forward and backward. Grid Layout and Card Theme used in-app to reflect nice app design.
+Recipes app developed using Flutter framework. The app is responsive to different devices size and adaptive to different platforms (IOS & Android). Users can navigate between different screens forward and backward. Grid Layout and Card Theme used in-app to reflect nice app design.
 
 # App
 ![PicsArt_02-14-01 43 32](https://user-images.githubusercontent.com/24944117/218736657-ff673226-4d95-4f1d-b57b-4c06929fdad6.png)
